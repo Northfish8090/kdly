@@ -4,7 +4,7 @@
 
 ## 下载
 [![App_Store](https://github.com/Northfish8090/kdly/blob/master/Resource/Download_on_the_App_Store_135x40.svg)](https://itunes.apple.com/app/id1323017181)
-[![App_Store](https://github.com/Northfish8090/kdly/blob/master/Resource/IMG_33324%E7%9A%84%E5%89%AF%E6%9C%AC.png)](https://fir.im/kfc5)
+[![Android download](https://github.com/Northfish8090/kdly/blob/master/Resource/IMG_333241.png)](https://fir.im/kfc5)
 
 <figure class="half">
     <img src="https://github.com/Northfish8090/kdly/blob/master/Resource/IMG_3437.JPG" width = "400" height = "700"   alt="screenshot" />
