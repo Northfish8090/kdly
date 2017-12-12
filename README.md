@@ -15,7 +15,7 @@
 ## 联系我们:
 
 * Email: 919204852@qq.com
-* 微信群: northfish8090
+* 客服微信: northfish8090
 
 
 
